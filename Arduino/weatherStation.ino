@@ -16,8 +16,8 @@
 // #include <BLEServer.h>
 // #include <BLEUtils.h>
 // #include <BLE2902.h>
-#define api "https://devapi.qweather.com/v7/weather/now?location=101281701&key=80efe4aab624454dbff95e52d6a65c03&lang=en"
-#define f3dapi "https://devapi.qweather.com/v7/weather/7d?location=101281701&key=80efe4aab624454dbff95e52d6a65c03&lang=en"
+#define api "your api"
+#define f3dapi "your api"
 #define button 40
 
 //字体
